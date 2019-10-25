@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PCAD APP 2019</string>
+    <string name="username">USERNAME</string>
+    <string name="login">LOGIN</string>
+    <string name="registrati">REGISTRATI</string>
+    <string name="se_non_sei_ancora_registrato">NON SEI REGISTRATO?</string>
+    <string name="benvenuto">BENVENUTO</string>
+    <string name="indirizzo_ip_server">IP SERVER</string>
+    <string name="inserisci">Inserisci</string>
+    <string name="title_activity_signin">SigninActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="inserire_cognome">Inserire cognome</string>
+    <string name="inserire_nome">Inserire nome</string>
+    <string name="inserire_id">Inserire Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="benvenuti">Benvenuti!</string>
+    <string name="start">START</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="down">DOWN</string>
+    <string name="up">UP</string>
+    <string name="pcadapp">PCAD App</string>
+    <string name="image">Logo</string>
+    <string name="wordCounter">WordCounter</string>
+</resources>
